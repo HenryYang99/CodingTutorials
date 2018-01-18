@@ -18,7 +18,7 @@ This tutorial may include following contents in the future:
 * **Bootstrap**
 * **PHP**
 * **.Net**
-* **Mysql**
+* **MySQL**
 * **Swift**
 * **PHP**
 * **Git**
