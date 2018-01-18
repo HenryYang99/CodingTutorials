@@ -11,7 +11,7 @@
   * [Basic Tutorials](php/basic-tutorials.md)
 * [MySQL](mysql.md)
   * [Basic Tutorials](mysql/basic-tutorials.md)
-* HTML
+* [HTML](html.md)
   * [Basic Tutorials](basic-tutorials.md)
 * [CSS](css.md)
   * [Basic Tutorials](css/basic-tutorials.md)

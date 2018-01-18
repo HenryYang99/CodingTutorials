@@ -1,4 +1,4 @@
-# Introduction to c++
+# Introduction to C++
 
 ###### （Excerpt from Wikipedia\)
 
