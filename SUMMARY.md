@@ -13,13 +13,13 @@
   * [Basic Tutorials](mysql/basic-tutorials.md)
 * HTML
   * [Basic Tutorials](basic-tutorials.md)
-* CSS
-  * [Basic Tutorials](basic-tutorials.md)
-* Javascript
-  * [Basic Tutorials](basic-tutorials.md)
-* JQuery
-  * [Basic Tutorials](basic-tutorials.md)
+* [CSS](css.md)
+  * [Basic Tutorials](css/basic-tutorials.md)
+* [Javascript](javascript.md)
+  * [Basic Tutorials](javascript/basic-tutorials.md)
+* [JQuery](jquery.md)
+  * [Basic Tutorials](jquery/basic-tutorials.md)
 * [Bootstrap](bootstrap.md)
-  * Basic Tutorials
+  * [Basic Tutorials](bootstrap/basic-tutorials.md)
 * [Examples](examples.md)
 
