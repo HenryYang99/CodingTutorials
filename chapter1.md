@@ -2,7 +2,7 @@
 
 ###### （Excerpt from Wikipedia\)
 
-### What is C++?
+## What is C++?
 
 C++\(C plus plus\) is a general-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing facilities for low-level memory manipulation.
 
@@ -12,9 +12,7 @@ C++ is standardized by the [International Organization for Standardization](http
 
 Many other programming languages have been influenced by C++, including [C\#](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29),[D](https://en.wikipedia.org/wiki/D_%28programming_language%29),[Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29), and newer versions of C.
 
-
-
-### History of C++
+## History of C++
 
 In 1979,[Bjarne Stroustrup](https://en.wikipedia.org/wiki/Bjarne_Stroustrup), a Danish [computer scientist](https://en.wikipedia.org/wiki/Computer_scientist), began work on "C with [Classes](https://en.wikipedia.org/wiki/Class_%28computer_programming%29)", the predecessor to C++.[\[9\]](https://en.wikipedia.org/wiki/C%2B%2B#cite_note-invention3-9)The motivation for creating a new language originated from Stroustrup's experience in programming for his Ph.D. thesis. Stroustrup found that [Simula](https://en.wikipedia.org/wiki/Simula) had features that were very helpful for large software development, but the language was too slow for practical use, while [BCPL](https://en.wikipedia.org/wiki/BCPL) was fast but too low-level to be suitable for large software development. When Stroustrup started working in [AT&T Bell Labs](https://en.wikipedia.org/wiki/AT%26T_Bell_Labs), he had the problem of analyzing the [UNIX](https://en.wikipedia.org/wiki/Unix)[kernel](https://en.wikipedia.org/wiki/Kernel_%28computer_science%29) with respect to [distributed computing](https://en.wikipedia.org/wiki/Distributed_computing). Remembering his Ph.D. experience, Stroustrup set out to enhance the [C](https://en.wikipedia.org/wiki/C_%28programming_language%29) language with [Simula](https://en.wikipedia.org/wiki/Simula)-like features.[\[10\]](https://en.wikipedia.org/wiki/C%2B%2B#cite_note-evolving-10)C was chosen because it was general-purpose, fast, portable and widely used. As well as C and Simula's influences, other languages also influenced C++, including [ALGOL 68](https://en.wikipedia.org/wiki/ALGOL_68),[Ada](https://en.wikipedia.org/wiki/Ada_%28programming_language%29),[CLU](https://en.wikipedia.org/wiki/CLU_%28programming_language%29) and [ML](https://en.wikipedia.org/wiki/ML_%28programming_language%29).
 
@@ -32,17 +30,13 @@ As of 2017, C++ remains the third most popular programming language, behind [Jav
 
 On January 3, 2018, Stroustrup was announced as the 2018 winner of the [Charles Stark Draper Prize](https://en.wikipedia.org/wiki/Charles_Stark_Draper_Prize) for Engineering, which comes with $500,000, "for conceptualizing and developing the C++ programming language."[\[17\]](https://en.wikipedia.org/wiki/C%2B%2B#cite_note-17)
 
-
-
-### Etymology of C++
+## Etymology of C++
 
 According to Stroustrup: "the name signifies the evolutionary nature of the changes from C".[\[18\]](https://en.wikipedia.org/wiki/C%2B%2B#cite_note-name-18)This name is credited to Rick Mascitti \(mid-1983\)[\[11\]](https://en.wikipedia.org/wiki/C%2B%2B#cite_note-hopl2-11)and was first used in December 1983. When Mascitti was questioned informally in 1992 about the naming, he indicated that it was given in a [tongue-in-cheek](https://en.wikipedia.org/wiki/Tongue-in-cheek) spirit. The name comes from C's`++`[operator](https://en.wikipedia.org/wiki/Operator_%28programming%29)\(which [increments](https://en.wikipedia.org/wiki/Increment_and_decrement_operators) the [value](https://en.wikipedia.org/wiki/Value_%28computer_science%29) of a [variable](https://en.wikipedia.org/wiki/Variable_%28programming%29)\) and a common [naming convention](https://en.wikipedia.org/wiki/Naming_convention) of using "+" to indicate an enhanced computer program.
 
 During C++'s development period, the language had been referred to as "new C" and "C with Classes"[\[11\]](https://en.wikipedia.org/wiki/C%2B%2B#cite_note-hopl2-11)[\[19\]](https://en.wikipedia.org/wiki/C%2B%2B#cite_note-19)before acquiring its final name.
 
-
-
-### Philosophy of C++
+## Philosophy of C++
 
 Throughout C++'s life, its development and evolution has been informally governed by a set of rules that its evolution should follow:[\[10\]](https://en.wikipedia.org/wiki/C%2B%2B#cite_note-evolving-10)
 
@@ -59,9 +53,7 @@ Throughout C++'s life, its development and evolution has been informally governe
   [programming environment](https://en.wikipedia.org/wiki/Programming_environment).
 * If the programmer's intent is unknown, allow the programmer to specify it by providing manual control.
 
-### 
-
-### Standardization of C++
+## Standardization of C++
 
 C++ is standardized by an [ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization) working group known as [JTC1/SC22/WG21](https://en.wikipedia.org/wiki/ISO/IEC_JTC_1/SC_22). So far, it has published five revisions of the C++ standard and is currently working on the next revision,[C++20](https://en.wikipedia.org/wiki/C%2B%2B20).
 
