@@ -6,19 +6,19 @@
 * [Python](python.md)
   * [Basic Tutorials](python/basic-tutorials.md)
 * [Java](java.md)
-  * Basic Tutorials
+  * [Basic Tutorials](java/basic-tutorials.md)
 * [PHP](php.md)
-  * Basic Tutorials
+  * [Basic Tutorials](php/basic-tutorials.md)
 * [MySQL](mysql.md)
-  * Basic Tutorials
+  * [Basic Tutorials](mysql/basic-tutorials.md)
 * HTML
-  * Basic Tutorials
+  * [Basic Tutorials](basic-tutorials.md)
 * CSS
-  * Basic Tutorials
+  * [Basic Tutorials](basic-tutorials.md)
 * Javascript
-  * Basic Tutorials
+  * [Basic Tutorials](basic-tutorials.md)
 * JQuery
-  * Basic Tutorials
+  * [Basic Tutorials](basic-tutorials.md)
 * [Bootstrap](bootstrap.md)
   * Basic Tutorials
 * [Examples](examples.md)
